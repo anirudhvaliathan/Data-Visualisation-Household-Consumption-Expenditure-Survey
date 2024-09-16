@@ -1,5 +1,7 @@
 # Data-Visualisation-Household-Consumption-Expenditure-Survey
 
+Visualising data related to the The Household Consumption Expenditure Survey 2022-23 India.
+
 The Household Consumption Expenditure Survey (HCES) is designed to collect
 information on consumption of goods and services by the households. The survey
 also collects some auxiliary information on household characteristics and
